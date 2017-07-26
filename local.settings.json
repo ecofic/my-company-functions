@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Value": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "GitHub",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=mycompanyfuncti9283;AccountKey=hZ5kh6l1hFKXl/oENi+IUY8HNw/5P0D1aQKt5jlVai8CUwh0m7Z1wmp0CCg8IsYI043v4pwcA5mqBIX7dPN3DQ==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=mycompanyfuncti9283;AccountKey=hZ5kh6l1hFKXl/oENi+IUY8HNw/5P0D1aQKt5jlVai8CUwh0m7Z1wmp0CCg8IsYI043v4pwcA5mqBIX7dPN3DQ==",
+    "WEBSITE_CONTENTSHARE": "my-company-functions9283",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=mycompanyfuncti9283;AccountKey=hZ5kh6l1hFKXl/oENi+IUY8HNw/5P0D1aQKt5jlVai8CUwh0m7Z1wmp0CCg8IsYI043v4pwcA5mqBIX7dPN3DQ==",
+    "WEBSITE_SITE_NAME": "my-company-functions"
+  }
+}
